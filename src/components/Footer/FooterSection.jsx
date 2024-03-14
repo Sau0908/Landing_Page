@@ -40,36 +40,16 @@ const FooterSection = () => {
                 </a>
               </div>
               <div className="flex gap-[11px]">
-                <Button
-                  color="white_A700"
-                  size="xs"
-                  shape="circle"
-                  className="w-[22px]"
-                >
+                <Button size="xs" shape="circle" className="w-[22px]">
                   <Img src="images/img_social_icons.svg" />
                 </Button>
-                <Button
-                  color="white_A700"
-                  size="xs"
-                  shape="circle"
-                  className="w-[22px]"
-                >
+                <Button size="xs" shape="circle" className="w-[22px]">
                   <Img src="images/img_social_icons_white_a700.svg" />
                 </Button>
-                <Button
-                  color="white_A700"
-                  size="xs"
-                  shape="circle"
-                  className="w-[22px]"
-                >
+                <Button size="xs" shape="circle" className="w-[22px]">
                   <Img src="images/img_social_icons_white_a700_22x22.svg" />
                 </Button>
-                <Button
-                  color="white_A700"
-                  size="xs"
-                  shape="circle"
-                  className="w-[22px]"
-                >
+                <Button size="xs" shape="circle" className="w-[22px]">
                   <Img src="images/img_path.svg" />
                 </Button>
               </div>
