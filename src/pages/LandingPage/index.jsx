@@ -8,7 +8,7 @@ import InfoMainSection from "components/InfoMainSection/InfoMainSection";
 export default function LandingPagePage() {
   return (
     <>
-      <div className="w-full overflow-auto bg-white-A700 shadow-lg">
+      <div className="w-full overflow-x-hidden bg-white-A700 shadow-lg">
         <Navbar />
         <HeroSection />
         <InfoMainSection />

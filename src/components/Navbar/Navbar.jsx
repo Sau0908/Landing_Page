@@ -14,7 +14,7 @@ const Navbar = () => {
               <span className="text-black-900">P</span>
               <span className="text-green-500">cl</span>
             </Text>
-            <div className="flex sm:flex-col justify-end items-center w-[90%] md:w-full gap-[22px] px-px">
+            <div className="flex sm:flex-col justify-end items-center  md:w-full gap-[22px] px-px">
               <div className="flex justify-end flex-1">
                 <a href="#" className="self-start">
                   <Text size="xl" as="p" className="!text-gray-800 text-center">
@@ -31,7 +31,7 @@ const Navbar = () => {
                     Community
                   </Text>
                 </div>
-                <div className="flex self-end justify-end w-[11%]">
+                <div className="flex self-end justify-end w-[11%] ml-4">
                   <Text size="xl" as="p" className="!text-gray-800">
                     Blog
                   </Text>
